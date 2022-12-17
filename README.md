@@ -6,5 +6,6 @@ I'm still a beginner to be called a programmer but I'm still excited to always l
     - Java Programming
     - Python Programming
     - Developing Android Application 
+    - and more, Depending on given task 
 
 "Nobody can go back and start a new beginning, but instead of to go back I prefer to start a new line"
